@@ -19,3 +19,4 @@ This is a demo of Playwright automating the Google Dino game
 ### Resources
 
 - [Chromium offline source code](https://source.chromium.org/chromium/chromium/src/+/master:components/neterror/resources/offline.js?originalUrl=https:%2F%2Fcs.chromium.org%2F)
+- [Playwright with TestIM](https://www.testim.io/playwright-recorder/)
